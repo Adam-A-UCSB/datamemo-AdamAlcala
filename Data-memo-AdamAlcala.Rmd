@@ -1,0 +1,43 @@
+---
+title: "Data-Memo-Adam Alcala"
+author: "Adam Alcala"
+date: "2022-10-03"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Data Memo - Adam Alcala
+### 10-02-22
+### PSTAT 131
+
+
+To be upfront, I am still deciding on what exactly I would like my project to be on. However, I know that I want to do it on some kind of sport, be that physical sports or e-sports. For the purposes of this data memo, I want to try and predict the chances of the LA Dodgers winning a game in the MLB season.
+
+My data set is called "mlb_elo". I obtained this data from fivethirtyeight.com, here is the link to the github:
+
+https://github.com/fivethirtyeight/data/tree/master/mlb-elo
+
+In short, the dataset contains Elo ratings (or rankings) and forecasts for Major League Baseball teams since 1871. There are 26 predictor variables and 225857 observations within the dataset. However, since we are focusing on the Dodgers, 
+
+Where and how will you be obtaining it? Include the link and source.
+About how many observations? How many predictors?
+What types of variables will you be working with?
+Is there any missing data? About how much? Do you have an idea for how to handle it?
+
+- An overview of your research question(s)
+What variable(s) are you interested in predicting? What question(s) are you interested in answering?
+Name your response/outcome variable(s) and briefly describe it/them.
+Will these questions be best answered with a classification or regression approach?
+Which predictors do you think will be especially useful?
+Is the goal of your model descriptive, predictive, inferential, or a combination? Explain.
+
+- Your proposed project timeline
+When do you plan on having your data set loaded, beginning your exploratory data analysis, etc?
+Provide a general timeline for the rest of the quarter.
+
+- Any questions or concerns
+Are there any problems or difficult aspects of the project you anticipate?
+Any specific questions you have for me/the instructional team?
